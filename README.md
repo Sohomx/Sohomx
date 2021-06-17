@@ -1,5 +1,5 @@
 ### Hi there. Here is what I'm working on. 👋
-![tenor](https://user-images.githubusercontent.com/84140043/122415179-5191df80-cfa5-11eb-86d5-9e27918e5d32.gif)
+![tumblr_3ac0129d72e2db26ed0c165412d44181_2386ab34_500](https://user-images.githubusercontent.com/84140043/122415441-8dc54000-cfa5-11eb-9226-3a470a3aa73b.gif)
 
 Here are some ideas to get you started:
 
