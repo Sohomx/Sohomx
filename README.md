@@ -1,8 +1,5 @@
 ### Hi there. Here is what I'm working on. 👋
-
-![monophy](https://user-images.githubusercontent.com/84140043/122414932-20191400-cfa5-11eb-8478-69c87bc387a4.gif)
-
-
+![tenor](https://user-images.githubusercontent.com/84140043/122415179-5191df80-cfa5-11eb-86d5-9e27918e5d32.gif)
 
 Here are some ideas to get you started:
 
