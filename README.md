@@ -1,5 +1,6 @@
 ### Hi there. Here is what I'm working on. 👋
-![tumblr_3ac0129d72e2db26ed0c165412d44181_2386ab34_500](https://user-images.githubusercontent.com/84140043/122415441-8dc54000-cfa5-11eb-9226-3a470a3aa73b.gif)
+![tenor](https://user-images.githubusercontent.com/84140043/122415555-a5042d80-cfa5-11eb-90f9-b89030a41e6a.gif)
+
 
 Here are some ideas to get you started:
 
