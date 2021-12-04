@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohom Pal</h1>
-### Hi there. Here is what I do mostly do. 👋
-![tenor](https://media.giphy.com/media/3o7qDXzmWyT3BgcyGc/giphy.gif)
+
 
 
 <p align="left"> <a href="https://twitter.com/sohoooom" target="blank"><img src="https://img.shields.io/twitter/follow/sohoooom?logo=twitter&style=for-the-badge" alt="sohoooom" /></a> </p>
